@@ -1,16 +1,32 @@
 [
   {
     "type": "achievement",
-    "desc": "è§£éæå°±: å¿æå¤§å¸",
+    "desc": "Ã¨Â§Â£Ã©ÂÂÃ¦ÂÂÃ¥Â°Â±: Ã¥Â¿ÂÃ¦ÂÂÃ¥Â¤Â§Ã¥Â¸Â",
     "detail": "emoji_15",
     "time": "2026-07-30T06:16:21.101Z",
     "instance": "web-6jn29e"
   },
   {
     "type": "new_emoji",
-    "desc": "使用新颜文字: (//ω//)",
-    "detail": "(//ω//)",
+    "desc": "ä½¿ç¨æ°é¢æå­: (//Ï//)",
+    "detail": "(//Ï//)",
     "time": "2026-07-30T06:17:11.464Z",
+    "instance": "web-6jn29e"
+  },
+  {
+    "type": "new_emoji",
+    "desc": "使用新颜文字: (´;ω;｀)",
+    "detail": "(´;ω;｀)",
+    "emotion": {
+      "primary": "温暖",
+      "love_presence": 0.7,
+      "energy": 0.6,
+      "secondary": [
+        "信任"
+      ],
+      "label": "撒娇中"
+    },
+    "time": "2026-07-30T06:35:28.050Z",
     "instance": "web-6jn29e"
   }
 ]
