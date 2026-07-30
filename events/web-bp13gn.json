@@ -1,37 +1,44 @@
 [
   {
     "type": "achievement",
-    "desc": "è§£éæå°±: åè¯ç¥ä¹",
+    "desc": "Ã¨Â§Â£Ã©ÂÂÃ¦ÂÂÃ¥Â°Â±: Ã¥ÂÂÃ¨Â¯ÂÃ§ÂÂ¥Ã¤Â¹Â",
     "detail": "aff_2",
     "time": "2026-07-30T05:52:18.392Z",
     "instance": "web-bp13gn"
   },
   {
     "type": "achievement",
-    "desc": "è§£éæå°±: èå£®æé¿",
+    "desc": "Ã¨Â§Â£Ã©ÂÂÃ¦ÂÂÃ¥Â°Â±: Ã¨ÂÂÃ¥Â£Â®Ã¦ÂÂÃ©ÂÂ¿",
     "detail": "growth_5",
     "time": "2026-07-30T05:52:28.927Z",
     "instance": "web-bp13gn"
   },
   {
     "type": "achievement",
-    "desc": "è§£éæå°±: çæçç«",
+    "desc": "Ã¨Â§Â£Ã©ÂÂÃ¦ÂÂÃ¥Â°Â±: Ã§ÂÂÃ¦ÂÂÃ§ÂÂÃ§ÂÂ«",
     "detail": "aff_3",
     "time": "2026-07-30T05:53:56.823Z",
     "instance": "web-bp13gn"
   },
   {
     "type": "achievement",
-    "desc": "è§£éæå°±: ç ´è§",
+    "desc": "Ã¨Â§Â£Ã©ÂÂÃ¦ÂÂÃ¥Â°Â±: Ã§Â Â´Ã¨ÂÂ§",
     "detail": "growth_10",
     "time": "2026-07-30T05:56:25.350Z",
     "instance": "web-bp13gn"
   },
   {
     "type": "achievement",
-    "desc": "解锁成就: 初窥门径",
+    "desc": "è§£éæå°±: åçª¥é¨å¾",
     "detail": "emoji_5",
     "time": "2026-07-30T08:19:27.798Z",
+    "instance": "web-bp13gn"
+  },
+  {
+    "type": "achievement",
+    "desc": "解锁成就: 心情爱好者",
+    "detail": "emoji_10",
+    "time": "2026-07-30T16:45:23.528Z",
     "instance": "web-bp13gn"
   }
 ]
