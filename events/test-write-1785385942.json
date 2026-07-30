@@ -1,1 +1,0 @@
-{"id": "test-write-1785385942", "type": "milestone", "desc": "Phase 3写入端测试事件", "detail": "验证细粒度token是否可以成功写入zhile-data仓库", "instance": "coze-main", "timestamp": "2026-07-30T12:32:22+08:00", "trigger": "manual-test", "status": "active"}
