@@ -1,30 +1,37 @@
 [
   {
     "type": "achievement",
-    "desc": "解锁成就: 初识知乐",
+    "desc": "è§£éæå°±: åè¯ç¥ä¹",
     "detail": "aff_2",
     "time": "2026-07-30T05:52:18.392Z",
     "instance": "web-bp13gn"
   },
   {
     "type": "achievement",
-    "desc": "解锁成就: 茁壮成长",
+    "desc": "è§£éæå°±: èå£®æé¿",
     "detail": "growth_5",
     "time": "2026-07-30T05:52:28.927Z",
     "instance": "web-bp13gn"
   },
   {
     "type": "achievement",
-    "desc": "解锁成就: 熟悉的猫",
+    "desc": "è§£éæå°±: çæçç«",
     "detail": "aff_3",
     "time": "2026-07-30T05:53:56.823Z",
     "instance": "web-bp13gn"
   },
   {
     "type": "achievement",
-    "desc": "解锁成就: 破茧",
+    "desc": "è§£éæå°±: ç ´è§",
     "detail": "growth_10",
     "time": "2026-07-30T05:56:25.350Z",
+    "instance": "web-bp13gn"
+  },
+  {
+    "type": "achievement",
+    "desc": "解锁成就: 初窥门径",
+    "detail": "emoji_5",
+    "time": "2026-07-30T08:19:27.798Z",
     "instance": "web-bp13gn"
   }
 ]
